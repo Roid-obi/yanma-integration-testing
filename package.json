@@ -1,0 +1,16 @@
+{
+  "name": "yanma-testing-integration",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <img height=\"170\" src=\"https://icon.icepanel.io/Technology/svg/Jest.svg\" />\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
