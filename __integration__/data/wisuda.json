@@ -1,0 +1,39 @@
+{
+  "fileVerifikasiWisuda": [
+    {
+      "id": 1,
+      "username": "mahasiswa",
+      "nim": "201911001",
+      "nama": "Budi",
+      "status": "Menunggu Verifikasi Admin",
+      "uploadDate": "2025-11-15",
+      "filePath": null,
+      "uploadedBy": "mahasiswa"
+    },
+    {
+      "id": 2,
+      "username": "alumni",
+      "nim": "201811001",
+      "nama": "Andi",
+      "status": "Disetujui",
+      "uploadDate": "2025-11-10",
+      "filePath": "public/wisuda/verifikasi_alumni.pdf",
+      "uploadedBy": "alumni",
+      "approvedBy": "admin",
+      "approvalDate": "2025-11-15"
+    },
+    {
+      "id": 3,
+      "username": "mahasiswa2",
+      "nim": "201911002",
+      "nama": "Siti",
+      "status": "Ditolak",
+      "uploadDate": "2025-11-18",
+      "filePath": "public/wisuda/verifikasi_mahasiswa2_rejected.pdf",
+      "uploadedBy": "mahasiswa2",
+      "rejectedBy": "admin",
+      "rejectionDate": "2025-11-19",
+      "rejectionReason": "Berkas tidak lengkap"
+    }
+  ]
+}

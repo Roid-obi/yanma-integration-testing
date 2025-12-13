@@ -1,0 +1,54 @@
+{
+  "auditLogs": [
+    {
+      "id": 1,
+      "actor": "mahasiswa",
+      "action": "LOGIN",
+      "targetModule": "Auth",
+      "details": "User mahasiswa berhasil login",
+      "timestamp": "2025-11-20T09:15:00Z",
+      "ipAddress": "192.168.1.100",
+      "status": "SUCCESS"
+    },
+    {
+      "id": 2,
+      "actor": "mahasiswa",
+      "action": "SUBMIT_APPLICATION",
+      "targetModule": "Akademik",
+      "details": "Submit pengesahan TA dengan file berukuran 1.5MB",
+      "timestamp": "2025-11-20T09:30:00Z",
+      "ipAddress": "192.168.1.100",
+      "status": "SUCCESS"
+    },
+    {
+      "id": 3,
+      "actor": "admin",
+      "action": "VERIFY_DOCUMENT",
+      "targetModule": "Akademik",
+      "details": "Verifikasi pengesahan TA untuk mahasiswa (nim: 201911001)",
+      "timestamp": "2025-11-20T10:00:00Z",
+      "ipAddress": "192.168.1.50",
+      "status": "SUCCESS"
+    },
+    {
+      "id": 4,
+      "actor": "alumni",
+      "action": "CREATE_QUEUE",
+      "targetModule": "Alumni",
+      "details": "Membuat antrian legalisir untuk dokumen Ijazah",
+      "timestamp": "2025-11-20T11:20:00Z",
+      "ipAddress": "192.168.1.101",
+      "status": "SUCCESS"
+    },
+    {
+      "id": 5,
+      "actor": "mahasiswa2",
+      "action": "DOWNLOAD_FILE",
+      "targetModule": "Kemahasiswaan",
+      "details": "Download Surat Keterangan Lulus",
+      "timestamp": "2025-11-20T14:45:00Z",
+      "ipAddress": "192.168.1.102",
+      "status": "SUCCESS"
+    }
+  ]
+}

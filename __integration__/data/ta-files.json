@@ -1,0 +1,34 @@
+{
+  "filePengesahanTA": [
+    {
+      "id": 1,
+      "username": "Farhan",
+      "nim": "201911003",
+      "nama": "Farhan",
+      "status": "Menunggu Verifikasi",
+      "filePath": null,
+      "uploadedDate": "2025-11-20",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "username": "mahasiswa2",
+      "nim": "201911002",
+      "nama": "Siti",
+      "status": "Disetujui",
+      "filePath": "public/pengesahan/pengesahan_mahasiswa2.pdf",
+      "uploadedDate": "2025-11-15",
+      "notes": "Berkas lengkap dan sesuai"
+    },
+    {
+      "id": 3,
+      "username": "mahasiswa",
+      "nim": "201911001",
+      "nama": "Budi",
+      "status": "Direvisi",
+      "filePath": "public/pengesahan/pengesahan_mahasiswa_rev1.pdf",
+      "uploadedDate": "2025-11-18",
+      "notes": "Perlu perbaikan format halaman"
+    }
+  ]
+}

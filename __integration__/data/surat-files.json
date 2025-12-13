@@ -1,0 +1,46 @@
+{
+  "fileSuratKeteranganPengantar": [
+    {
+      "id": 1,
+      "username": "mahasiswa",
+      "nim": "201911001",
+      "nama": "Budi",
+      "keperluan": "Beasiswa",
+      "filePath": "public/suratKeteranganPengantar/keterangan_pengantar_mahasiswa.pdf",
+      "requestDate": "2025-11-15",
+      "approvalDate": "2025-11-16"
+    },
+    {
+      "id": 2,
+      "username": "mahasiswa2",
+      "nim": "201911002",
+      "nama": "Siti",
+      "keperluan": "Magang",
+      "filePath": null,
+      "requestDate": "2025-11-20",
+      "approvalDate": null
+    }
+  ],
+  "fileSuratKeteranganMasihKuliah": [
+    {
+      "id": 1,
+      "username": "mahasiswa",
+      "nim": "201911001",
+      "nama": "Budi",
+      "orangtua": "Bapak Bambang",
+      "filePath": "public/suratKeteranganMasihKuliah/keterangan_masih_kuliah_mahasiswa.pdf",
+      "requestDate": "2025-11-18",
+      "approvalDate": "2025-11-19"
+    },
+    {
+      "id": 2,
+      "username": "Farhan",
+      "nim": "201911003",
+      "nama": "Farhan",
+      "orangtua": "Ibu Farah",
+      "filePath": null,
+      "requestDate": "2025-11-20",
+      "approvalDate": null
+    }
+  ]
+}

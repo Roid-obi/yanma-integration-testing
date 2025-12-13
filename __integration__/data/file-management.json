@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "id": 1,
+      "filename": "pengesahan_mahasiswa.pdf",
+      "originalName": "Pengesahan_TA_Budi.pdf",
+      "filePath": "public/pengesahan/pengesahan_mahasiswa.pdf",
+      "fileSize": 1524288,
+      "fileType": "application/pdf",
+      "uploadedBy": "mahasiswa",
+      "uploadDate": "2025-11-15",
+      "category": "Pengesahan TA",
+      "status": "verified"
+    },
+    {
+      "id": 2,
+      "filename": "skl_alumni.pdf",
+      "originalName": "SKL_Andi.pdf",
+      "filePath": "public/skl/skl_alumni.pdf",
+      "fileSize": 896000,
+      "fileType": "application/pdf",
+      "uploadedBy": "alumni",
+      "uploadDate": "2025-11-10",
+      "category": "Surat Keterangan Lulus",
+      "status": "approved"
+    },
+    {
+      "id": 3,
+      "filename": "keterangan_pengantar_mahasiswa.pdf",
+      "originalName": "Surat_Pengantar_Budi.pdf",
+      "filePath": "public/suratKeteranganPengantar/keterangan_pengantar_mahasiswa.pdf",
+      "fileSize": 512000,
+      "fileType": "application/pdf",
+      "uploadedBy": "mahasiswa",
+      "uploadDate": "2025-11-15",
+      "category": "Surat Keterangan",
+      "status": "ready_download"
+    }
+  ],
+  "fileStorage": {
+    "maxFileSize": 10485760,
+    "allowedFormats": ["pdf", "doc", "docx", "zip"],
+    "storagePath": "public/"
+  }
+}

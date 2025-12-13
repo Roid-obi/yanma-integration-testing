@@ -1,0 +1,44 @@
+{
+  "statusTracking": [
+    {
+      "id": 1,
+      "username": "mahasiswa",
+      "nim": "201911001",
+      "tipeAjuan": "Perpanjangan Studi",
+      "status": "Menunggu Verifikasi",
+      "submissionDate": "2025-11-15",
+      "lastUpdate": "2025-11-15",
+      "progress": 25
+    },
+    {
+      "id": 2,
+      "username": "mahasiswa2",
+      "nim": "201911002",
+      "tipeAjuan": "Surat Keterangan Lulus",
+      "status": "Disetujui",
+      "submissionDate": "2025-11-10",
+      "lastUpdate": "2025-11-18",
+      "progress": 100
+    },
+    {
+      "id": 3,
+      "username": "Farhan",
+      "nim": "201911003",
+      "tipeAjuan": "Pengesahan TA",
+      "status": "Direvisi",
+      "submissionDate": "2025-11-18",
+      "lastUpdate": "2025-11-20",
+      "progress": 50
+    },
+    {
+      "id": 4,
+      "username": "alumni",
+      "nim": "201811001",
+      "tipeAjuan": "Legalisir",
+      "status": "Diproses",
+      "submissionDate": "2025-11-18",
+      "lastUpdate": "2025-11-20",
+      "progress": 60
+    }
+  ]
+}

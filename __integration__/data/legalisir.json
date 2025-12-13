@@ -1,0 +1,37 @@
+{
+  "legalisirQueue": [
+    {
+      "kode": "LG001",
+      "username": "alumni",
+      "nim": "201811001",
+      "nama": "Andi",
+      "nomorAntrian": 1,
+      "status": "Diproses",
+      "requestDate": "2025-11-18",
+      "expectedDate": "2025-11-25",
+      "dokumenType": "Ijazah"
+    },
+    {
+      "kode": "LG002",
+      "username": "alumni2",
+      "nim": "201811002",
+      "nama": "Joko",
+      "nomorAntrian": 2,
+      "status": "Selesai",
+      "requestDate": "2025-11-15",
+      "completedDate": "2025-11-20",
+      "dokumenType": "Transkrip Nilai"
+    },
+    {
+      "kode": "LG003",
+      "username": "alumni",
+      "nim": "201811001",
+      "nama": "Andi",
+      "nomorAntrian": 3,
+      "status": "Menunggu",
+      "requestDate": "2025-11-20",
+      "expectedDate": "2025-12-02",
+      "dokumenType": "Surat Kelulusan"
+    }
+  ]
+}

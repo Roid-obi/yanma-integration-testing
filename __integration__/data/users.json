@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "mahasiswa",
+      "password": "123",
+      "role": "mahasiswa",
+      "nama": "Budi",
+      "nim": "201911001",
+      "lulus": false,
+      "email": "budi@university.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": 2,
+      "username": "mahasiswa2",
+      "password": "123",
+      "role": "mahasiswa",
+      "nama": "Siti",
+      "nim": "201911002",
+      "lulus": false,
+      "email": "siti@university.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": 3,
+      "username": "alumni",
+      "password": "123",
+      "role": "alumni",
+      "nama": "Andi",
+      "nim": "201811001",
+      "lulus": true,
+      "email": "andi@university.ac.id",
+      "status": "lulus"
+    },
+    {
+      "id": 4,
+      "username": "alumni2",
+      "password": "123",
+      "role": "alumni",
+      "nama": "Joko",
+      "nim": "201811002",
+      "lulus": true,
+      "email": "joko@university.ac.id",
+      "status": "lulus"
+    },
+    {
+      "id": 5,
+      "username": "admin",
+      "password": "admin",
+      "role": "admin",
+      "nama": "Admin01",
+      "nim": null,
+      "email": "admin@university.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": 6,
+      "username": "Farhan",
+      "password": "123",
+      "role": "mahasiswa",
+      "nama": "Farhan",
+      "nim": "201911003",
+      "lulus": false,
+      "email": "farhan@university.ac.id",
+      "status": "aktif"
+    }
+  ]
+}

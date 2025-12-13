@@ -1,0 +1,24 @@
+{
+  "fileSKL": [
+    {
+      "id": 1,
+      "username": "alumni",
+      "nim": "201811001",
+      "nama": "Andi",
+      "status": "Disetujui",
+      "filePath": "public/skl/skl_alumni.pdf",
+      "uploadedDate": "2025-11-10",
+      "approvalDate": "2025-11-15"
+    },
+    {
+      "id": 2,
+      "username": "alumni2",
+      "nim": "201811002",
+      "nama": "Joko",
+      "status": "Menunggu Verifikasi",
+      "filePath": null,
+      "uploadedDate": "2025-11-20",
+      "approvalDate": null
+    }
+  ]
+}
